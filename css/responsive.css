@@ -54,7 +54,7 @@
       height: 10vh;
       transition: all 0.5s linear;
     }
-    /* 100% grid; */
+    
 
     .banner__content, .fetures__content, .about__content, .men__content, .testimonial__content{
         grid-template-columns:100%;
